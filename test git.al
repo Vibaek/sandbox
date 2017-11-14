@@ -6,7 +6,7 @@ table 50200 TechDays2017
         field(1;MyField;Integer)
         {
         }
-           field(2;MyField2;Integer)
+        field(2;MyField2;Integer)
         {
         }
     }
